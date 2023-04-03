@@ -1,9 +1,0 @@
-*.class
-*.log
-*.idea
-*.bsp
-target
-target/
-.vscode
-*.java
-.metals
